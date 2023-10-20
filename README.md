@@ -1,8 +1,8 @@
-#¡Hola, soy Manu! 👋
+# ¡Hola, soy Manu! 👋
 
 Soy estudiante de Ingeniería en Computación en la Universidad de Guadalajara (UDG), ubicado en Chapala, Jalisco, México. Tengo conocimientos básicos en Python y C++. En mi tiempo libre, disfruto jugando al tenis y, actualmente, estoy enfocado en aprender desarrollo web con Svelte.
 
-##Conocimientos 💻
+## Conocimientos 💻
 
 -**Lenguajes de Programación:** Python, C++
 -**Tecnologías Web:** Actualmente aprendiendo Svelte
