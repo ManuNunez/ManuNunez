@@ -12,6 +12,7 @@ Soy estudiante de Ingeniería en Computación en la Universidad de Guadalajara (
 
 
 ![Lenguajes mas usados](https://api.githubtrends.io/user/svg/ManuNunez/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+![Mayores contribuciones](https://api.githubtrends.io/user/svg/ManuNunez/repos?time_range=one_year&loc_metric=changed&theme=dark)
 
 
 ## Contacto 📬
