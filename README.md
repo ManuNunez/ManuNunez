@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería en Computación en la Universidad de Guadalajara (
 -**Tecnologías Web:** Actualmente aprendiendo vue
 -**Herramientas:** Git, GitHub
 
-##Stats
+## Stats
 
 
 ![Lenguajes mas usados](https://api.githubtrends.io/user/svg/ManuNunez/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
