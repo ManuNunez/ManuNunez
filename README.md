@@ -4,9 +4,9 @@ Soy estudiante de Ingeniería en Computación en la Universidad de Guadalajara (
 
 ## Conocimientos 💻
 
--**Lenguajes de Programación:** Python, C++
--**Tecnologías Web:** Actualmente aprendiendo vue
--**Herramientas:** Git, GitHub
+-**Lenguajes de Programación:** Python, C++, PHP
+-**Tecnologías Web:** Actualmente aprendiendo Flask
+-**Herramientas:** Git, GitHub, Latex
 
 ## Stats
 
